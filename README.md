@@ -31,17 +31,15 @@ The solution focuses on:
 - Model development  
 - Performance evaluation  
 - Result optimization under time constraints  
-🛠 Technologies Used
 
-Python
+## 🛠 Technologies Used
 
-Pandas
-
-NumPy
-
-Scikit-learn
-
-Matplotlib / Seaborn
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+- Seaborn  
 
 
 💡 Note
