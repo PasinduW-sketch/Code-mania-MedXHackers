@@ -15,25 +15,22 @@ Team Name: MedXHackers
 Team ID: CM0199
 University: General Sir John Kotelawala Defence University (KDU)
 
-Team Leader: Wanniarachchige Lilendra Pasindu Harsha
-Team Members: Bavindu | Tharindu
+Team Leader:Pasindu Harsha
+Team Members: Navindu | Tharindu
 
 📊 Project Overview
 
 This repository contains all source codes, data preprocessing scripts, model training files, and evaluation results developed during the competition.
 
+## 📊 Project Focus
+
 The solution focuses on:
 
-Data preprocessing and cleaning
-
-Feature engineering
-
-Model development
-
-Performance evaluation
-
-Result optimization under time constraints
-
+- Data preprocessing and cleaning  
+- Feature engineering  
+- Model development  
+- Performance evaluation  
+- Result optimization under time constraints  
 🛠 Technologies Used
 
 Python
